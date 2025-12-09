@@ -1,8 +1,8 @@
-# Echo Dungeon V10
+# Echo Dungeon V10.5
 
 A fully voice-controlled dungeon crawler RPG designed for accessibility. Navigate dungeons, battle monsters, collect loot, and level up—all using only your voice!
 
-## 🎮 What's New in V10
+## 🎮 What's New in V10.5
 
 ### Major Features
 - **Dual Bracelet Slots** - Left and right wrist equipment (no stacking)
